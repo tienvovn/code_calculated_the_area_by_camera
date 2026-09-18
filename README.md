@@ -8,13 +8,13 @@ The project uses a YOLO-based ONNX segmentation model to generate a segmentation
 
 ## Features
 
-- 📷 Capture images from a camera
-- 🤖 YOLO object segmentation using ONNX
-- 🎯 Detect and segment the target object
-- 📐 Calculate the object's area
-- 🖥️ GUI for testing the system
-- 💾 Save captured images for testing and analysis
-- 🔌 ONNX-based inference
+-  Capture images from a camera
+-  YOLO object segmentation using ONNX
+-  Detect and segment the target object
+-  Calculate the object's area
+-  GUI for testing the system
+-  Save captured images for testing and analysis
+-  ONNX-based inference
 
 ---
 
